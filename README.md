@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently enrolled in 4th Year,BS-CS **@ FAST-NUCES,Karachi**
 
-- 🌱 I’m currently learning **React Native, MERN Stack**
+- 🌱 I’m currently learning: **React Native, MERN Stack**
 
-- 📫 How to reach me **ayeshazia119@gmail.com**
+- 📫 Reach me here: **ayeshazia119@gmail.com**
 
-- ⚡ Fun fact **I can't choose between content writing and coding! :P**
+- ⚡ Fun fact: **I can't choose between content writing and coding, just like I can't choose what's prettier, sunsets or rainbows?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
