@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently enrolled in 3rd Year,BS-CS **@ FAST-NUCES,Karachi**
+- 🔭 I’m currently enrolled in 4th Year,BS-CS **@ FAST-NUCES,Karachi**
 
 - 🌱 I’m currently learning **React Native, MERN Stack**
 
